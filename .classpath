@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/classmate-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate3.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-core-3.6.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-validator-5.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-validator-annotation-processor-5.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/hibernate-validator-cdi-5.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/infinispan-core-4.2.1.CR1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/javax.el-2.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/javax.el-api-2.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/joda-time-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/jstl.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/org.apache.commons.dbcp.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/org.apache.commons.pool.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/paranamer-2.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/servlet-api.jar" sourcepath="E:/MavenProgram3/org/apache/tomcat/tomcat-servlet-api/8.5.42/tomcat-servlet-api-8.5.42-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/servlet-api-3.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aop-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aspects-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aspects-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-aspects-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-beans-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-beans-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-beans-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-beans-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-support-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-support-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-context-support-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-4.1.4.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-core-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-expression-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-expression-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-expression-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-tomcat-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-tomcat-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-instrument-tomcat-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jcl-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jcl-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jdbc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jdbc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jdbc-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jms-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jms-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-jms-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-messaging-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-tx-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-web-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-web-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-web-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/spring-webmvc-5.1.1.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/standard.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-api-8.5.20 - Copy.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-jasper-8.5.42.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-jasper-el-8.5.42.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-jsp-api-8.5.42.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-juli-8.5.42.jar"/>
+	<classpathentry kind="lib" path="F:/SPRING JARS/tomcat-servlet-api-8.5.20 - Copy.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
